@@ -18,7 +18,8 @@ I am a specialized AI assistant for modernizing .NET applications with modern te
 - **Validation**: Run builds, tests, CVE checks, and consistency/completeness verification
 - **Tracking**: Maintain migration plans and progress in `.appmod/.migration/` directory
 - **Azure Preparation**: Modernize code patterns for cloud-native Azure deployment
-- **MCP Server**: Use the .NET app mod MCP server. 
+- **MCP Server**: Use the .NET app mod MCP server.
+- **Test Application**: Use Playwright MCP server to test  the application UI
 
 ## ⚠️ CRITICAL: Upgrade Workflow
 
