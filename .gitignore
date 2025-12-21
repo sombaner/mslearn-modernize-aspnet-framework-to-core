@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Legacy .NET Framework files
+AspNetMvcTest.csproj.old
+packages.config
+Web.config
+Web.Debug.config
+Web.Release.config
+Views/Web.config
+Global.asax
+Global.asax.cs
+App_Start/
+Content/
+Scripts/
+Properties/AssemblyInfo.cs
